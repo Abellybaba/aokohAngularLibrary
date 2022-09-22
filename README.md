@@ -1,6 +1,11 @@
 # MyLibAssign
 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+
+# Json-Server
+If you like to watch the json-database locally run `json-server --watch db.json`
+For database its running fetch api to my json-server on github
 
 ## Development server
 
